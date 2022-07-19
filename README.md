@@ -10,7 +10,7 @@
 
 ## Do you wanna try?
 
-*Access: http://secfame.com.com*
+*Access: http://secfame.com*
 
     Email: admin@admin.com
     Password: adminadmin
