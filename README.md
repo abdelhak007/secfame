@@ -20,7 +20,7 @@
 
     Upload smm Folder with public_html
 
-![enter image description here](https://secfame.com.com/)
+(https://secfame.com.com/)
 
 **Second:**
 
@@ -28,7 +28,7 @@
 Third:
 
     Go to smm > config > database.php and setup your database. 👇
-![enter image description here](https://secfame.com/)
+(https://secfame.com/)
 
 *Now go to your domain and Start Using.*
 
